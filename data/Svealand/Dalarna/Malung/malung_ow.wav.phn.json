@@ -1,0 +1,2049 @@
+{
+  "text": "<sm>ɑː seː <hes> eː et an eksempəl kan jɑː tɑː hæː vɑːr ɖoː ɧɑːrhɑːʂ boːt tɪ sʉːdɑːm han <pa> han vɑː jɵ pʊliːs men han ɵpvɪlse ɔksɔ tɪfreːɡaər <hes>oː vɑː arbeːta t fiːda andɔm næː ɖoː oːrə <sm> <hes> vɑː ɖɑːɑː slʉːt poː ɡrɛːsœpɔn <sm> ɑː doː man foːr doː tuːɡ jen flɪkə m bɵrk soː sɑː jɑː kan dɔm medə iː hœpəs nʉː sk jɑː slɛː pa en vɛnda næː hɑː an mede iː mɑːlɪbɵs  <sm> han <v><hes> tuːɡa ɖɑː s jɑː doː kə tɪ høːɡə man skreː hɪmhn meː vɑːɖrɔeŋ kamhiːn sɔ man tɑː rɵm fœ̞ː mej viː fɪk anvɛnɪŋ fœ̞ː bɵdtsən fœ̞ː stɪkan iːp men ɪntə œpna ʂœ̞ːr ɵʉːtan noːt en eŋəlsk breːɡa sɔm ɑː fænɛː bʊ piːtən ɔnɔn œpən jet soːl poː fuːtɵ deː vɑː priːsən tɪ mejtard ɪdejɑː mɛːtar  iː ɡɑːvambɵtsən a sɑː dʉː foː ɭoːɳa jæːr iː triː lœŋn s jɑː skɑː hɑː tɪbɑːks e soː ʏkvɛl œfriːden vɑː en brɑː pʊ vɑː na ɡa ɳɛːda eː lɛːkarə ana vøːdan ɪnan tʉː lɛːkarə sɔm meː dɔriː nɛː maŋ kan ɪntə anɔn s jɑː foːr an ʉːtɪ bɵʂən roː d ɡɪkan dɔ farma sœ man skɵ sprʉːta oː dɑːha na deːt soː poː værmən sɔm an aɡenə m en heːr muːɳa sɔm j fœ̞ːre lɛːsɪs han reːs oːn en tiːʂœ̞ːʈ iː vɪkə trœja oː seː lɑːm poː kɔstmaja sjɑː vɑː iː herjə doː skɵlə a jvæɖa sprʉːtan jɑː sjɑː raŋ kam tɪbɑːks poː mɔndaŋ doː had an ɖoː ɡɵbən han stuː ɖɑː veː prloːɳə <pa> oː heːr fɔmɪn doː fuːɖra dɔm at man skɵl jɛlpa m alɪ huːpa dɔm ana oː krɛmpa ɳasda sɑː alɪhuːp oː hæː kœ̞ːɳ jɵ tɑː nøːoːhen dɔŋ kalam fœ̞ː ɖen biːtən medesiːn manən fœ̞ː andɑːɡ j bɛnaɳa jʊʈ brɑː jɛrnən poː tuːɖɔsalɔ",
+  "chunks": [
+    {
+      "text": "<sm>ɑː",
+      "timestamp": [
+        1.94,
+        2.52
+      ]
+    },
+    {
+      "text": "seː",
+      "timestamp": [
+        2.64,
+        2.76
+      ]
+    },
+    {
+      "text": "<hes>",
+      "timestamp": [
+        3.2,
+        3.24
+      ]
+    },
+    {
+      "text": "eː",
+      "timestamp": [
+        3.48,
+        3.5
+      ]
+    },
+    {
+      "text": "et",
+      "timestamp": [
+        3.88,
+        4.04
+      ]
+    },
+    {
+      "text": "an",
+      "timestamp": [
+        4.06,
+        4.28
+      ]
+    },
+    {
+      "text": "eksempəl",
+      "timestamp": [
+        4.78,
+        5.34
+      ]
+    },
+    {
+      "text": "kan",
+      "timestamp": [
+        5.44,
+        5.62
+      ]
+    },
+    {
+      "text": "jɑː",
+      "timestamp": [
+        5.66,
+        5.7
+      ]
+    },
+    {
+      "text": "tɑː",
+      "timestamp": [
+        5.82,
+        5.88
+      ]
+    },
+    {
+      "text": "hæː",
+      "timestamp": [
+        6.04,
+        6.1
+      ]
+    },
+    {
+      "text": "vɑːr",
+      "timestamp": [
+        6.2,
+        6.34
+      ]
+    },
+    {
+      "text": "ɖoː",
+      "timestamp": [
+        6.4,
+        6.44
+      ]
+    },
+    {
+      "text": "ɧɑːrhɑːʂ",
+      "timestamp": [
+        6.6,
+        7.06
+      ]
+    },
+    {
+      "text": "boːt",
+      "timestamp": [
+        7.14,
+        7.32
+      ]
+    },
+    {
+      "text": "tɪ",
+      "timestamp": [
+        7.36,
+        7.42
+      ]
+    },
+    {
+      "text": "sʉːdɑːm",
+      "timestamp": [
+        7.52,
+        8.04
+      ]
+    },
+    {
+      "text": "han",
+      "timestamp": [
+        8.62,
+        8.84
+      ]
+    },
+    {
+      "text": "<pa>",
+      "timestamp": [
+        8.88,
+        8.9
+      ]
+    },
+    {
+      "text": "han",
+      "timestamp": [
+        9.4,
+        9.52
+      ]
+    },
+    {
+      "text": "vɑː",
+      "timestamp": [
+        9.56,
+        9.62
+      ]
+    },
+    {
+      "text": "jɵ",
+      "timestamp": [
+        9.78,
+        9.84
+      ]
+    },
+    {
+      "text": "pʊliːs",
+      "timestamp": [
+        9.96,
+        10.38
+      ]
+    },
+    {
+      "text": "men",
+      "timestamp": [
+        10.46,
+        10.62
+      ]
+    },
+    {
+      "text": "han",
+      "timestamp": [
+        10.66,
+        10.84
+      ]
+    },
+    {
+      "text": "ɵpvɪlse",
+      "timestamp": [
+        11.02,
+        11.52
+      ]
+    },
+    {
+      "text": "ɔksɔ",
+      "timestamp": [
+        11.58,
+        11.82
+      ]
+    },
+    {
+      "text": "tɪfreːɡaər",
+      "timestamp": [
+        11.92,
+        12.66
+      ]
+    },
+    {
+      "text": "<hes>oː",
+      "timestamp": [
+        13.46,
+        13.5
+      ]
+    },
+    {
+      "text": "vɑː",
+      "timestamp": [
+        13.62,
+        13.68
+      ]
+    },
+    {
+      "text": "arbeːta",
+      "timestamp": [
+        14.86,
+        15.3
+      ]
+    },
+    {
+      "text": "t",
+      "timestamp": [
+        15.4,
+        15.42
+      ]
+    },
+    {
+      "text": "fiːda",
+      "timestamp": [
+        15.58,
+        15.94
+      ]
+    },
+    {
+      "text": "andɔm",
+      "timestamp": [
+        16.5,
+        16.86
+      ]
+    },
+    {
+      "text": "næː",
+      "timestamp": [
+        17.54,
+        17.6
+      ]
+    },
+    {
+      "text": "ɖoː",
+      "timestamp": [
+        17.7,
+        17.76
+      ]
+    },
+    {
+      "text": "oːrə",
+      "timestamp": [
+        17.9,
+        18.22
+      ]
+    },
+    {
+      "text": "<sm>",
+      "timestamp": [
+        18.94,
+        18.98
+      ]
+    },
+    {
+      "text": "<hes>",
+      "timestamp": [
+        19.12,
+        19.14
+      ]
+    },
+    {
+      "text": "vɑː",
+      "timestamp": [
+        19.2,
+        19.26
+      ]
+    },
+    {
+      "text": "ɖɑːɑː",
+      "timestamp": [
+        19.38,
+        19.52
+      ]
+    },
+    {
+      "text": "slʉːt",
+      "timestamp": [
+        19.62,
+        20.08
+      ]
+    },
+    {
+      "text": "poː",
+      "timestamp": [
+        20.24,
+        20.3
+      ]
+    },
+    {
+      "text": "ɡrɛːsœpɔn",
+      "timestamp": [
+        20.38,
+        21.06
+      ]
+    },
+    {
+      "text": "<sm>",
+      "timestamp": [
+        22.64,
+        22.66
+      ]
+    },
+    {
+      "text": "ɑː",
+      "timestamp": [
+        23.14,
+        23.18
+      ]
+    },
+    {
+      "text": "doː",
+      "timestamp": [
+        23.28,
+        23.34
+      ]
+    },
+    {
+      "text": "man",
+      "timestamp": [
+        23.36,
+        23.5
+      ]
+    },
+    {
+      "text": "foːr",
+      "timestamp": [
+        23.6,
+        23.9
+      ]
+    },
+    {
+      "text": "doː",
+      "timestamp": [
+        24.02,
+        24.08
+      ]
+    },
+    {
+      "text": "tuːɡ",
+      "timestamp": [
+        24.2,
+        24.44
+      ]
+    },
+    {
+      "text": "jen",
+      "timestamp": [
+        24.46,
+        24.58
+      ]
+    },
+    {
+      "text": "flɪkə",
+      "timestamp": [
+        24.64,
+        24.9
+      ]
+    },
+    {
+      "text": "m",
+      "timestamp": [
+        24.98,
+        25.0
+      ]
+    },
+    {
+      "text": "bɵrk",
+      "timestamp": [
+        25.08,
+        25.4
+      ]
+    },
+    {
+      "text": "soː",
+      "timestamp": [
+        25.54,
+        25.6
+      ]
+    },
+    {
+      "text": "sɑː",
+      "timestamp": [
+        25.74,
+        25.86
+      ]
+    },
+    {
+      "text": "jɑː",
+      "timestamp": [
+        25.98,
+        26.04
+      ]
+    },
+    {
+      "text": "kan",
+      "timestamp": [
+        26.12,
+        26.32
+      ]
+    },
+    {
+      "text": "dɔm",
+      "timestamp": [
+        26.38,
+        26.5
+      ]
+    },
+    {
+      "text": "medə",
+      "timestamp": [
+        26.56,
+        26.86
+      ]
+    },
+    {
+      "text": "iː",
+      "timestamp": [
+        27.06,
+        27.08
+      ]
+    },
+    {
+      "text": "hœpəs",
+      "timestamp": [
+        27.14,
+        27.5
+      ]
+    },
+    {
+      "text": "nʉː",
+      "timestamp": [
+        27.58,
+        27.62
+      ]
+    },
+    {
+      "text": "sk",
+      "timestamp": [
+        27.68,
+        27.8
+      ]
+    },
+    {
+      "text": "jɑː",
+      "timestamp": [
+        27.84,
+        27.88
+      ]
+    },
+    {
+      "text": "slɛː",
+      "timestamp": [
+        27.94,
+        28.06
+      ]
+    },
+    {
+      "text": "pa",
+      "timestamp": [
+        28.2,
+        28.24
+      ]
+    },
+    {
+      "text": "en",
+      "timestamp": [
+        28.32,
+        28.4
+      ]
+    },
+    {
+      "text": "vɛnda",
+      "timestamp": [
+        28.44,
+        28.74
+      ]
+    },
+    {
+      "text": "næː",
+      "timestamp": [
+        29.96,
+        30.02
+      ]
+    },
+    {
+      "text": "hɑː",
+      "timestamp": [
+        30.14,
+        30.18
+      ]
+    },
+    {
+      "text": "an",
+      "timestamp": [
+        30.28,
+        30.34
+      ]
+    },
+    {
+      "text": "mede",
+      "timestamp": [
+        30.4,
+        30.68
+      ]
+    },
+    {
+      "text": "iː",
+      "timestamp": [
+        31.74,
+        31.76
+      ]
+    },
+    {
+      "text": "mɑːlɪbɵs",
+      "timestamp": [
+        31.86,
+        32.4
+      ]
+    },
+    {
+      "text": "<sm>",
+      "timestamp": [
+        33.86,
+        33.88
+      ]
+    },
+    {
+      "text": "han",
+      "timestamp": [
+        34.2,
+        34.48
+      ]
+    },
+    {
+      "text": "<v><hes>",
+      "timestamp": [
+        34.5,
+        34.54
+      ]
+    },
+    {
+      "text": "tuːɡa",
+      "timestamp": [
+        35.2,
+        35.48
+      ]
+    },
+    {
+      "text": "ɖɑː",
+      "timestamp": [
+        35.6,
+        35.66
+      ]
+    },
+    {
+      "text": "s",
+      "timestamp": [
+        35.8,
+        35.84
+      ]
+    },
+    {
+      "text": "jɑː",
+      "timestamp": [
+        35.86,
+        35.9
+      ]
+    },
+    {
+      "text": "doː",
+      "timestamp": [
+        36.02,
+        36.08
+      ]
+    },
+    {
+      "text": "kə",
+      "timestamp": [
+        37.8,
+        37.86
+      ]
+    },
+    {
+      "text": "tɪ",
+      "timestamp": [
+        38.12,
+        38.18
+      ]
+    },
+    {
+      "text": "høːɡə",
+      "timestamp": [
+        38.28,
+        38.52
+      ]
+    },
+    {
+      "text": "man",
+      "timestamp": [
+        38.6,
+        38.74
+      ]
+    },
+    {
+      "text": "skreː",
+      "timestamp": [
+        38.78,
+        39.02
+      ]
+    },
+    {
+      "text": "hɪmhn",
+      "timestamp": [
+        39.26,
+        39.72
+      ]
+    },
+    {
+      "text": "meː",
+      "timestamp": [
+        40.0,
+        40.06
+      ]
+    },
+    {
+      "text": "vɑːɖrɔeŋ",
+      "timestamp": [
+        40.16,
+        40.58
+      ]
+    },
+    {
+      "text": "kamhiːn",
+      "timestamp": [
+        40.7,
+        41.2
+      ]
+    },
+    {
+      "text": "sɔ",
+      "timestamp": [
+        41.3,
+        41.36
+      ]
+    },
+    {
+      "text": "man",
+      "timestamp": [
+        41.44,
+        41.58
+      ]
+    },
+    {
+      "text": "tɑː",
+      "timestamp": [
+        42.02,
+        42.08
+      ]
+    },
+    {
+      "text": "rɵm",
+      "timestamp": [
+        42.18,
+        42.38
+      ]
+    },
+    {
+      "text": "fœ̞ː",
+      "timestamp": [
+        42.46,
+        42.52
+      ]
+    },
+    {
+      "text": "mej",
+      "timestamp": [
+        42.62,
+        42.74
+      ]
+    },
+    {
+      "text": "viː",
+      "timestamp": [
+        44.04,
+        44.08
+      ]
+    },
+    {
+      "text": "fɪk",
+      "timestamp": [
+        44.18,
+        44.36
+      ]
+    },
+    {
+      "text": "anvɛnɪŋ",
+      "timestamp": [
+        44.42,
+        44.92
+      ]
+    },
+    {
+      "text": "fœ̞ː",
+      "timestamp": [
+        45.0,
+        45.04
+      ]
+    },
+    {
+      "text": "bɵdtsən",
+      "timestamp": [
+        45.18,
+        45.62
+      ]
+    },
+    {
+      "text": "fœ̞ː",
+      "timestamp": [
+        45.72,
+        45.78
+      ]
+    },
+    {
+      "text": "stɪkan",
+      "timestamp": [
+        45.9,
+        46.34
+      ]
+    },
+    {
+      "text": "iːp",
+      "timestamp": [
+        46.44,
+        46.78
+      ]
+    },
+    {
+      "text": "men",
+      "timestamp": [
+        47.38,
+        47.5
+      ]
+    },
+    {
+      "text": "ɪntə",
+      "timestamp": [
+        47.54,
+        47.78
+      ]
+    },
+    {
+      "text": "œpna",
+      "timestamp": [
+        47.84,
+        48.08
+      ]
+    },
+    {
+      "text": "ʂœ̞ːr",
+      "timestamp": [
+        48.26,
+        48.48
+      ]
+    },
+    {
+      "text": "ɵʉːtan",
+      "timestamp": [
+        48.62,
+        48.88
+      ]
+    },
+    {
+      "text": "noːt",
+      "timestamp": [
+        48.92,
+        49.1
+      ]
+    },
+    {
+      "text": "en",
+      "timestamp": [
+        49.14,
+        49.24
+      ]
+    },
+    {
+      "text": "eŋəlsk",
+      "timestamp": [
+        49.3,
+        49.78
+      ]
+    },
+    {
+      "text": "breːɡa",
+      "timestamp": [
+        49.88,
+        50.26
+      ]
+    },
+    {
+      "text": "sɔm",
+      "timestamp": [
+        50.92,
+        51.04
+      ]
+    },
+    {
+      "text": "ɑː",
+      "timestamp": [
+        51.1,
+        51.14
+      ]
+    },
+    {
+      "text": "fænɛː",
+      "timestamp": [
+        51.26,
+        51.54
+      ]
+    },
+    {
+      "text": "bʊ",
+      "timestamp": [
+        51.78,
+        51.84
+      ]
+    },
+    {
+      "text": "piːtən",
+      "timestamp": [
+        52.04,
+        52.5
+      ]
+    },
+    {
+      "text": "ɔnɔn",
+      "timestamp": [
+        52.52,
+        52.92
+      ]
+    },
+    {
+      "text": "œpən",
+      "timestamp": [
+        53.08,
+        53.42
+      ]
+    },
+    {
+      "text": "jet",
+      "timestamp": [
+        53.5,
+        53.66
+      ]
+    },
+    {
+      "text": "soːl",
+      "timestamp": [
+        53.78,
+        54.1
+      ]
+    },
+    {
+      "text": "poː",
+      "timestamp": [
+        54.66,
+        54.74
+      ]
+    },
+    {
+      "text": "fuːtɵ",
+      "timestamp": [
+        54.88,
+        55.34
+      ]
+    },
+    {
+      "text": "deː",
+      "timestamp": [
+        57.58,
+        57.64
+      ]
+    },
+    {
+      "text": "vɑː",
+      "timestamp": [
+        57.7,
+        57.74
+      ]
+    },
+    {
+      "text": "priːsən",
+      "timestamp": [
+        57.94,
+        58.4
+      ]
+    },
+    {
+      "text": "tɪ",
+      "timestamp": [
+        58.44,
+        58.5
+      ]
+    },
+    {
+      "text": "mejtard",
+      "timestamp": [
+        58.58,
+        59.0
+      ]
+    },
+    {
+      "text": "ɪdejɑː",
+      "timestamp": [
+        59.02,
+        59.34
+      ]
+    },
+    {
+      "text": "mɛːtar",
+      "timestamp": [
+        59.5,
+        59.98
+      ]
+    },
+    {
+      "text": "iː",
+      "timestamp": [
+        62.4,
+        62.42
+      ]
+    },
+    {
+      "text": "ɡɑːvambɵtsən",
+      "timestamp": [
+        62.6,
+        63.56
+      ]
+    },
+    {
+      "text": "a",
+      "timestamp": [
+        63.6,
+        63.62
+      ]
+    },
+    {
+      "text": "sɑː",
+      "timestamp": [
+        63.74,
+        63.82
+      ]
+    },
+    {
+      "text": "dʉː",
+      "timestamp": [
+        63.98,
+        64.04
+      ]
+    },
+    {
+      "text": "foː",
+      "timestamp": [
+        64.14,
+        64.2
+      ]
+    },
+    {
+      "text": "ɭoːɳa",
+      "timestamp": [
+        64.32,
+        64.6
+      ]
+    },
+    {
+      "text": "jæːr",
+      "timestamp": [
+        64.76,
+        64.96
+      ]
+    },
+    {
+      "text": "iː",
+      "timestamp": [
+        64.98,
+        65.0
+      ]
+    },
+    {
+      "text": "triː",
+      "timestamp": [
+        65.22,
+        65.34
+      ]
+    },
+    {
+      "text": "lœŋn",
+      "timestamp": [
+        66.26,
+        66.56
+      ]
+    },
+    {
+      "text": "s",
+      "timestamp": [
+        66.82,
+        66.86
+      ]
+    },
+    {
+      "text": "jɑː",
+      "timestamp": [
+        66.9,
+        66.98
+      ]
+    },
+    {
+      "text": "skɑː",
+      "timestamp": [
+        67.04,
+        67.16
+      ]
+    },
+    {
+      "text": "hɑː",
+      "timestamp": [
+        67.22,
+        67.26
+      ]
+    },
+    {
+      "text": "tɪbɑːks",
+      "timestamp": [
+        67.34,
+        67.74
+      ]
+    },
+    {
+      "text": "e",
+      "timestamp": [
+        67.82,
+        67.84
+      ]
+    },
+    {
+      "text": "soː",
+      "timestamp": [
+        67.92,
+        68.0
+      ]
+    },
+    {
+      "text": "ʏkvɛl",
+      "timestamp": [
+        68.12,
+        68.48
+      ]
+    },
+    {
+      "text": "œfriːden",
+      "timestamp": [
+        69.52,
+        70.92
+      ]
+    },
+    {
+      "text": "vɑː",
+      "timestamp": [
+        71.0,
+        71.06
+      ]
+    },
+    {
+      "text": "en",
+      "timestamp": [
+        71.12,
+        71.2
+      ]
+    },
+    {
+      "text": "brɑː",
+      "timestamp": [
+        71.28,
+        71.4
+      ]
+    },
+    {
+      "text": "pʊ",
+      "timestamp": [
+        71.7,
+        71.76
+      ]
+    },
+    {
+      "text": "vɑː",
+      "timestamp": [
+        72.54,
+        72.58
+      ]
+    },
+    {
+      "text": "na",
+      "timestamp": [
+        72.74,
+        72.8
+      ]
+    },
+    {
+      "text": "ɡa",
+      "timestamp": [
+        72.92,
+        72.98
+      ]
+    },
+    {
+      "text": "ɳɛːda",
+      "timestamp": [
+        73.12,
+        73.34
+      ]
+    },
+    {
+      "text": "eː",
+      "timestamp": [
+        73.52,
+        73.56
+      ]
+    },
+    {
+      "text": "lɛːkarə",
+      "timestamp": [
+        73.78,
+        74.34
+      ]
+    },
+    {
+      "text": "ana",
+      "timestamp": [
+        74.44,
+        74.62
+      ]
+    },
+    {
+      "text": "vøːdan",
+      "timestamp": [
+        74.72,
+        75.14
+      ]
+    },
+    {
+      "text": "ɪnan",
+      "timestamp": [
+        75.2,
+        75.44
+      ]
+    },
+    {
+      "text": "tʉː",
+      "timestamp": [
+        75.52,
+        75.58
+      ]
+    },
+    {
+      "text": "lɛːkarə",
+      "timestamp": [
+        75.76,
+        76.24
+      ]
+    },
+    {
+      "text": "sɔm",
+      "timestamp": [
+        76.4,
+        76.54
+      ]
+    },
+    {
+      "text": "meː",
+      "timestamp": [
+        76.6,
+        76.66
+      ]
+    },
+    {
+      "text": "dɔriː",
+      "timestamp": [
+        76.84,
+        77.28
+      ]
+    },
+    {
+      "text": "nɛː",
+      "timestamp": [
+        78.78,
+        78.82
+      ]
+    },
+    {
+      "text": "maŋ",
+      "timestamp": [
+        78.9,
+        79.04
+      ]
+    },
+    {
+      "text": "kan",
+      "timestamp": [
+        79.1,
+        79.24
+      ]
+    },
+    {
+      "text": "ɪntə",
+      "timestamp": [
+        79.28,
+        79.5
+      ]
+    },
+    {
+      "text": "anɔn",
+      "timestamp": [
+        79.56,
+        79.96
+      ]
+    },
+    {
+      "text": "s",
+      "timestamp": [
+        80.96,
+        81.0
+      ]
+    },
+    {
+      "text": "jɑː",
+      "timestamp": [
+        81.06,
+        81.12
+      ]
+    },
+    {
+      "text": "foːr",
+      "timestamp": [
+        81.28,
+        81.46
+      ]
+    },
+    {
+      "text": "an",
+      "timestamp": [
+        81.5,
+        81.64
+      ]
+    },
+    {
+      "text": "ʉːtɪ",
+      "timestamp": [
+        81.68,
+        81.94
+      ]
+    },
+    {
+      "text": "bɵʂən",
+      "timestamp": [
+        82.06,
+        82.54
+      ]
+    },
+    {
+      "text": "roː",
+      "timestamp": [
+        82.62,
+        82.68
+      ]
+    },
+    {
+      "text": "d",
+      "timestamp": [
+        84.02,
+        84.04
+      ]
+    },
+    {
+      "text": "ɡɪkan",
+      "timestamp": [
+        84.24,
+        84.56
+      ]
+    },
+    {
+      "text": "dɔ",
+      "timestamp": [
+        84.6,
+        84.64
+      ]
+    },
+    {
+      "text": "farma",
+      "timestamp": [
+        84.8,
+        85.1
+      ]
+    },
+    {
+      "text": "sœ",
+      "timestamp": [
+        85.26,
+        85.32
+      ]
+    },
+    {
+      "text": "man",
+      "timestamp": [
+        85.38,
+        85.5
+      ]
+    },
+    {
+      "text": "skɵ",
+      "timestamp": [
+        85.52,
+        85.64
+      ]
+    },
+    {
+      "text": "sprʉːta",
+      "timestamp": [
+        85.72,
+        86.2
+      ]
+    },
+    {
+      "text": "oː",
+      "timestamp": [
+        86.32,
+        86.38
+      ]
+    },
+    {
+      "text": "dɑːha",
+      "timestamp": [
+        86.72,
+        86.92
+      ]
+    },
+    {
+      "text": "na",
+      "timestamp": [
+        87.02,
+        87.1
+      ]
+    },
+    {
+      "text": "deːt",
+      "timestamp": [
+        87.24,
+        87.38
+      ]
+    },
+    {
+      "text": "soː",
+      "timestamp": [
+        87.46,
+        87.54
+      ]
+    },
+    {
+      "text": "poː",
+      "timestamp": [
+        87.74,
+        87.8
+      ]
+    },
+    {
+      "text": "værmən",
+      "timestamp": [
+        87.86,
+        88.2
+      ]
+    },
+    {
+      "text": "sɔm",
+      "timestamp": [
+        88.26,
+        88.36
+      ]
+    },
+    {
+      "text": "an",
+      "timestamp": [
+        88.42,
+        88.52
+      ]
+    },
+    {
+      "text": "aɡenə",
+      "timestamp": [
+        88.56,
+        88.96
+      ]
+    },
+    {
+      "text": "m",
+      "timestamp": [
+        89.06,
+        89.08
+      ]
+    },
+    {
+      "text": "en",
+      "timestamp": [
+        89.16,
+        89.24
+      ]
+    },
+    {
+      "text": "heːr",
+      "timestamp": [
+        89.34,
+        89.56
+      ]
+    },
+    {
+      "text": "muːɳa",
+      "timestamp": [
+        89.66,
+        89.96
+      ]
+    },
+    {
+      "text": "sɔm",
+      "timestamp": [
+        90.12,
+        90.24
+      ]
+    },
+    {
+      "text": "j",
+      "timestamp": [
+        90.3,
+        90.32
+      ]
+    },
+    {
+      "text": "fœ̞ːre",
+      "timestamp": [
+        90.48,
+        90.68
+      ]
+    },
+    {
+      "text": "lɛːsɪs",
+      "timestamp": [
+        90.8,
+        91.42
+      ]
+    },
+    {
+      "text": "han",
+      "timestamp": [
+        92.98,
+        93.12
+      ]
+    },
+    {
+      "text": "reːs",
+      "timestamp": [
+        93.16,
+        93.44
+      ]
+    },
+    {
+      "text": "oːn",
+      "timestamp": [
+        93.48,
+        93.74
+      ]
+    },
+    {
+      "text": "en",
+      "timestamp": [
+        94.2,
+        94.32
+      ]
+    },
+    {
+      "text": "tiːʂœ̞ːʈ",
+      "timestamp": [
+        94.44,
+        95.02
+      ]
+    },
+    {
+      "text": "iː",
+      "timestamp": [
+        95.08,
+        95.1
+      ]
+    },
+    {
+      "text": "vɪkə",
+      "timestamp": [
+        95.2,
+        95.42
+      ]
+    },
+    {
+      "text": "trœja",
+      "timestamp": [
+        95.54,
+        95.94
+      ]
+    },
+    {
+      "text": "oː",
+      "timestamp": [
+        97.64,
+        97.68
+      ]
+    },
+    {
+      "text": "seː",
+      "timestamp": [
+        97.78,
+        97.84
+      ]
+    },
+    {
+      "text": "lɑːm",
+      "timestamp": [
+        97.94,
+        98.14
+      ]
+    },
+    {
+      "text": "poː",
+      "timestamp": [
+        98.22,
+        98.3
+      ]
+    },
+    {
+      "text": "kɔstmaja",
+      "timestamp": [
+        98.54,
+        99.24
+      ]
+    },
+    {
+      "text": "sjɑː",
+      "timestamp": [
+        100.36,
+        100.46
+      ]
+    },
+    {
+      "text": "vɑː",
+      "timestamp": [
+        100.54,
+        100.58
+      ]
+    },
+    {
+      "text": "iː",
+      "timestamp": [
+        100.68,
+        100.7
+      ]
+    },
+    {
+      "text": "herjə",
+      "timestamp": [
+        100.78,
+        101.1
+      ]
+    },
+    {
+      "text": "doː",
+      "timestamp": [
+        101.2,
+        101.26
+      ]
+    },
+    {
+      "text": "skɵlə",
+      "timestamp": [
+        101.34,
+        101.56
+      ]
+    },
+    {
+      "text": "a",
+      "timestamp": [
+        101.58,
+        101.6
+      ]
+    },
+    {
+      "text": "jvæɖa",
+      "timestamp": [
+        101.7,
+        102.2
+      ]
+    },
+    {
+      "text": "sprʉːtan",
+      "timestamp": [
+        102.32,
+        102.9
+      ]
+    },
+    {
+      "text": "jɑː",
+      "timestamp": [
+        102.96,
+        103.02
+      ]
+    },
+    {
+      "text": "sjɑː",
+      "timestamp": [
+        104.26,
+        104.46
+      ]
+    },
+    {
+      "text": "raŋ",
+      "timestamp": [
+        104.76,
+        104.92
+      ]
+    },
+    {
+      "text": "kam",
+      "timestamp": [
+        104.98,
+        105.18
+      ]
+    },
+    {
+      "text": "tɪbɑːks",
+      "timestamp": [
+        105.26,
+        105.64
+      ]
+    },
+    {
+      "text": "poː",
+      "timestamp": [
+        105.72,
+        105.78
+      ]
+    },
+    {
+      "text": "mɔndaŋ",
+      "timestamp": [
+        105.86,
+        106.38
+      ]
+    },
+    {
+      "text": "doː",
+      "timestamp": [
+        106.64,
+        106.7
+      ]
+    },
+    {
+      "text": "had",
+      "timestamp": [
+        106.78,
+        106.92
+      ]
+    },
+    {
+      "text": "an",
+      "timestamp": [
+        106.98,
+        107.06
+      ]
+    },
+    {
+      "text": "ɖoː",
+      "timestamp": [
+        107.12,
+        107.16
+      ]
+    },
+    {
+      "text": "ɡɵbən",
+      "timestamp": [
+        107.3,
+        107.68
+      ]
+    },
+    {
+      "text": "han",
+      "timestamp": [
+        108.36,
+        108.5
+      ]
+    },
+    {
+      "text": "stuː",
+      "timestamp": [
+        108.54,
+        108.7
+      ]
+    },
+    {
+      "text": "ɖɑː",
+      "timestamp": [
+        108.86,
+        108.92
+      ]
+    },
+    {
+      "text": "veː",
+      "timestamp": [
+        109.02,
+        109.08
+      ]
+    },
+    {
+      "text": "prloːɳə",
+      "timestamp": [
+        109.22,
+        109.62
+      ]
+    },
+    {
+      "text": "<pa>",
+      "timestamp": [
+        109.76,
+        109.78
+      ]
+    },
+    {
+      "text": "oː",
+      "timestamp": [
+        110.06,
+        110.08
+      ]
+    },
+    {
+      "text": "heːr",
+      "timestamp": [
+        110.2,
+        110.42
+      ]
+    },
+    {
+      "text": "fɔmɪn",
+      "timestamp": [
+        110.52,
+        110.94
+      ]
+    },
+    {
+      "text": "doː",
+      "timestamp": [
+        111.76,
+        111.82
+      ]
+    },
+    {
+      "text": "fuːɖra",
+      "timestamp": [
+        111.92,
+        112.22
+      ]
+    },
+    {
+      "text": "dɔm",
+      "timestamp": [
+        112.36,
+        112.5
+      ]
+    },
+    {
+      "text": "at",
+      "timestamp": [
+        112.54,
+        112.7
+      ]
+    },
+    {
+      "text": "man",
+      "timestamp": [
+        112.74,
+        112.9
+      ]
+    },
+    {
+      "text": "skɵl",
+      "timestamp": [
+        113.34,
+        113.56
+      ]
+    },
+    {
+      "text": "jɛlpa",
+      "timestamp": [
+        113.64,
+        113.98
+      ]
+    },
+    {
+      "text": "m",
+      "timestamp": [
+        114.08,
+        114.12
+      ]
+    },
+    {
+      "text": "alɪ",
+      "timestamp": [
+        114.2,
+        114.42
+      ]
+    },
+    {
+      "text": "huːpa",
+      "timestamp": [
+        114.5,
+        114.86
+      ]
+    },
+    {
+      "text": "dɔm",
+      "timestamp": [
+        114.98,
+        115.1
+      ]
+    },
+    {
+      "text": "ana",
+      "timestamp": [
+        115.14,
+        115.42
+      ]
+    },
+    {
+      "text": "oː",
+      "timestamp": [
+        115.52,
+        115.54
+      ]
+    },
+    {
+      "text": "krɛmpa",
+      "timestamp": [
+        115.64,
+        116.06
+      ]
+    },
+    {
+      "text": "ɳasda",
+      "timestamp": [
+        116.2,
+        116.56
+      ]
+    },
+    {
+      "text": "sɑː",
+      "timestamp": [
+        116.7,
+        116.78
+      ]
+    },
+    {
+      "text": "alɪhuːp",
+      "timestamp": [
+        116.82,
+        117.36
+      ]
+    },
+    {
+      "text": "oː",
+      "timestamp": [
+        117.82,
+        117.86
+      ]
+    },
+    {
+      "text": "hæː",
+      "timestamp": [
+        117.9,
+        117.96
+      ]
+    },
+    {
+      "text": "kœ̞ːɳ",
+      "timestamp": [
+        118.08,
+        118.3
+      ]
+    },
+    {
+      "text": "jɵ",
+      "timestamp": [
+        118.34,
+        118.4
+      ]
+    },
+    {
+      "text": "tɑː",
+      "timestamp": [
+        118.54,
+        118.62
+      ]
+    },
+    {
+      "text": "nøːoːhen",
+      "timestamp": [
+        118.76,
+        119.2
+      ]
+    },
+    {
+      "text": "dɔŋ",
+      "timestamp": [
+        120.02,
+        120.14
+      ]
+    },
+    {
+      "text": "kalam",
+      "timestamp": [
+        120.2,
+        120.6
+      ]
+    },
+    {
+      "text": "fœ̞ː",
+      "timestamp": [
+        120.66,
+        120.72
+      ]
+    },
+    {
+      "text": "ɖen",
+      "timestamp": [
+        120.8,
+        120.92
+      ]
+    },
+    {
+      "text": "biːtən",
+      "timestamp": [
+        121.0,
+        121.34
+      ]
+    },
+    {
+      "text": "medesiːn",
+      "timestamp": [
+        121.4,
+        122.0
+      ]
+    },
+    {
+      "text": "manən",
+      "timestamp": [
+        122.04,
+        122.46
+      ]
+    },
+    {
+      "text": "fœ̞ː",
+      "timestamp": [
+        122.88,
+        122.92
+      ]
+    },
+    {
+      "text": "andɑːɡ",
+      "timestamp": [
+        123.4,
+        123.96
+      ]
+    },
+    {
+      "text": "j",
+      "timestamp": [
+        123.98,
+        124.0
+      ]
+    },
+    {
+      "text": "bɛnaɳa",
+      "timestamp": [
+        124.18,
+        124.6
+      ]
+    },
+    {
+      "text": "jʊʈ",
+      "timestamp": [
+        124.78,
+        125.1
+      ]
+    },
+    {
+      "text": "brɑː",
+      "timestamp": [
+        125.7,
+        125.84
+      ]
+    },
+    {
+      "text": "jɛrnən",
+      "timestamp": [
+        126.1,
+        126.58
+      ]
+    },
+    {
+      "text": "poː",
+      "timestamp": [
+        127.44,
+        127.5
+      ]
+    },
+    {
+      "text": "tuːɖɔsalɔ",
+      "timestamp": [
+        127.62,
+        128.44
+      ]
+    }
+  ]
+}
